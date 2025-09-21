@@ -161,10 +161,10 @@ const About = () => {
       </Left>
 
       <Right>
-        <img width="400" height="600" src={img1} alt="About Us" />
+        <img width="400" height="600" src="/logo.png" alt="About Us" />
         <img
-          width="400"
-          height="600"
+          width="350"
+          height="550"
           className="small-img-1"
           src={img2}
           alt="About Us"

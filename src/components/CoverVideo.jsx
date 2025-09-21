@@ -116,7 +116,7 @@ const CoverVideo = () => {
             data-scroll-delay="0.09"
             data-scroll-speed="4"
           >
-            i
+            A
           </motion.h1>
           <motion.h1
             variants={item}
@@ -124,7 +124,7 @@ const CoverVideo = () => {
             data-scroll-delay="0.06"
             data-scroll-speed="4"
           >
-            b
+            R
           </motion.h1>
           <motion.h1
             variants={item}
@@ -132,7 +132,7 @@ const CoverVideo = () => {
             data-scroll-delay="0.04"
             data-scroll-speed="4"
           >
-            e
+            P
           </motion.h1>
         </div>
         <motion.h2
@@ -142,7 +142,7 @@ const CoverVideo = () => {
           data-scroll-delay="0.04"
           data-scroll-speed="2"
         >
-          inspire. create. belive
+          inspire. create Jan
         </motion.h2>
       </Title>
 
